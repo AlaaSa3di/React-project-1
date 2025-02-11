@@ -3,14 +3,22 @@
 The Task Management Website is a web-based application designed to help employees efficiently organize their daily tasks within a company. It enhances productivity by providing an intuitive interface for task creation, assignment, tracking, and completion
 
 🚀 Features:
-✅ User authentication (register, login, and secure session handling).
-🗂️ Task creation, editing, and deletion.
-📌 Task categorization and prioritization.
-🔄 Real-time task status updates.
-📊 Task progress tracking.
-🏷️ Assigning tasks to team members.
-📅 Deadline reminders and notifications.
-📈 Dashboard for productivity insights.
+✅ User authentication (register, login, and secure session handling). 
+
+🗂️ Task creation, editing, and deletion. 
+
+📌 Task categorization and prioritization. 
+
+🔄 Real-time task status updates. 
+
+📊 Task progress tracking.  
+
+🏷️ Assigning tasks to team members.  
+
+📅 Deadline reminders and notifications.  
+
+📈 Dashboard for productivity insights.  
+
 
 🏗️ Technologies Used
 - Frontend: React.js, Tailwind CSS.
