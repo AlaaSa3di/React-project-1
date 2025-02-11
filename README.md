@@ -2,7 +2,8 @@
 📖 About the Project
 The Task Management Website is a web-based application designed to help employees efficiently organize their daily tasks within a company. It enhances productivity by providing an intuitive interface for task creation, assignment, tracking, and completion
 
-🚀 Features:
+🚀 Features:  
+
 ✅ User authentication (register, login, and secure session handling). 
 
 🗂️ Task creation, editing, and deletion. 
